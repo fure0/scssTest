@@ -1,0 +1,28 @@
+
+$gray:#c9c9c9;
+$white:#fff;
+$blue:blue;
+$red:red;
+$fs30:30px;
+
+.btn1 {
+    display: block; 
+    width: 200px; 
+    height: 50; 
+    line-height:  50px; 
+    font-size: $fs30; 
+    color:$gray; 
+    background: white;
+    border: 1px solid $gray;
+    text-align: center;
+    &:hover {background: $gray; color: $white;}
+}
+.btn2 {
+    display: block; 
+    padding:10px;
+    font-size: $fs30; 
+    color:$gray; 
+    background: $blue;
+    border: 1px solid $red;
+    text-align: center;
+}
