@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,GAAI,GAHA,MAAM,EAAE,cAAgB;;AAI5B,CAAE,GAJE,MAAM,EAAE,cAAgB;;AAK5B,IAAK,GALD,MAAM,EAAE,cAAgB",
+"sources": ["mixinTest2.scss"],
+"names": [],
+"file": "mixinTest2.css"
+}
