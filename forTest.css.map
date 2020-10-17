@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACI,aAAkB,GAAC,SAAS,EAAE,IAAQ;;AAAtC,aAAkB,GAAC,SAAS,EAAE,IAAQ;;AAAtC,aAAkB,GAAC,SAAS,EAAE,IAAQ;;AAAtC,aAAkB,GAAC,SAAS,EAAE,IAAQ;;AAAtC,aAAkB,GAAC,SAAS,EAAE,IAAQ",
+"sources": ["forTest.scss"],
+"names": [],
+"file": "forTest.css"
+}
