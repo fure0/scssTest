@@ -1,0 +1,7 @@
+$sizes: 14px, 15px, 16px;
+
+@each $size in $sizes {
+    .c#{$size} {
+        font-size: $size;
+    }
+}
