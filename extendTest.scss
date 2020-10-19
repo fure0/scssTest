@@ -1,0 +1,13 @@
+%name {
+    font-size: 14px; color: blue;
+}
+
+.fs20 {font-size: 20px;}
+
+@mixin name($blod, $color) {
+    font-weight: $blod; background: $color;
+}
+
+.a { @extend %name; @include name(bold, grey);}
+.b { @extend .fs20}
+.c { @extend %name;}

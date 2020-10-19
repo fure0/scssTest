@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM,GACF,SAAS,EAAE,IAAI,EAAE,KAAK,EAAE,IAAI;;AAGhC,SAAM,GAAC,SAAS,EAAE,IAAI;;AAMtB,EAAG,GAHC,WAAW,EAGmB,IAAI,EAHd,UAAU,EAGM,IAAI",
+"sources": ["extendTest.scss"],
+"names": [],
+"file": "extendTest.css"
+}
